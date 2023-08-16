@@ -1,6 +1,6 @@
 [submodule "third-party/pybind11"]
 	path = third-party/pybind11
-	url = https://github.com/pybind/pybind11.git
+	url = https://github.com/pybind/pybind11
 [submodule "third-party/Hierarchical-Localization"]
 	path = third-party/Hierarchical-Localization
 	url = https://github.com/cvg/Hierarchical-Localization.git
@@ -9,20 +9,20 @@
 	url = https://github.com/B1ueber2y/JLinkage
 [submodule "third-party/libigl"]
 	path = third-party/libigl
-	url = https://github.com/B1ueber2y/libigl.git
+	url = https://github.com/B1ueber2y/libigl
 [submodule "third-party/RansacLib"]
 	path = third-party/RansacLib
-	url = https://github.com/B1ueber2y/RansacLib.git
+	url = https://github.com/B1ueber2y/RansacLib
     branch = header-only
 [submodule "third-party/HighFive"]
 	path = third-party/HighFive
-	url = https://github.com/B1ueber2y/HighFive.git
+	url = https://github.com/B1ueber2y/HighFive
 [submodule "third-party/pytlsd"]
 	path = third-party/pytlsd
-	url = https://github.com/iago-suarez/pytlsd.git
+	url = https://github.com/iago-suarez/pytlsd
 [submodule "third-party/pytlbd"]
 	path = third-party/pytlbd
-	url = https://github.com/iago-suarez/pytlbd.git
+	url = https://github.com/iago-suarez/pytlbd
 [submodule "third-party/hawp"]
 	path = third-party/hawp
 	url = https://github.com/cherubicXN/hawp.git
@@ -32,7 +32,7 @@
 	url = https://github.com/awarebayes/TP-LSD
 [submodule "third-party/DeepLSD"]
 	path = third-party/DeepLSD
-	url = https://github.com/cvg/DeepLSD.git
+	url = https://github.com/cvg/DeepLSD
 [submodule "third-party/GlueStick"]
 	path = third-party/GlueStick
-	url = https://github.com/cvg/GlueStick.git
+	url = https://github.com/cvg/GlueStick
