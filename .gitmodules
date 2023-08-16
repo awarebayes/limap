@@ -25,8 +25,7 @@
 	url = https://github.com/iago-suarez/pytlbd
 [submodule "third-party/hawp"]
 	path = third-party/hawp
-	url = https://github.com/cherubicXN/hawp.git
-	ignore = dirty
+	url = git@github.com:awarebayes/hawp
 [submodule "third-party/TP-LSD"]
 	path = third-party/TP-LSD
 	url = https://github.com/awarebayes/TP-LSD
